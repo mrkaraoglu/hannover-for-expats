@@ -9,4 +9,5 @@ Purchasing:
 
 Free Time:
 <a href="freetime/museum.md">Museums in Hannover</a>
+<a href="freetime/child.md">Free time with children</a>
 
