@@ -8,6 +8,6 @@ Purchasing:
 <a href="purchase/ikea-hannover.md">Ikea</a>
 
 Free Time:
-<a href="freetime/museum.md">Museums in Hannover</a>
+<a href="freetime/museum.md">Museums in Hannover</a> <br>
 <a href="freetime/child.md">Free time with children</a>
 
